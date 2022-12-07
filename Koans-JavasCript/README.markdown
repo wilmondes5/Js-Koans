@@ -1,40 +1,26 @@
 # javascript-koans
-Based on Edgecase's fantastic 
-[Ruby koans](http://github.com/edgecase/ruby_koans), the goal of the
-Javascript koans is to teach you Javascript programming through
-testing.
 
-When you first run the koans, you'll be presented with a runtime error and a
-stack trace indicating where the error occurred. Your goal is to make the
-error go away. As you fix each error, you should learn something about the
-Javascript language and functional programming in general.
+Baseado no fantástico livro de Edgecase
+o objetivo do Javascript koans é para ensinar a você a programação Javascript através
+teste.
 
-Your journey towards Javascript enlightenment starts in the koans/AboutExpects.js file. These
-koans will be very simple, so don't overthink them! As you progress through
-more koans, more and more Javascript syntax will be introduced which will allow
-you to solve more complicated problems and use more advanced techniques.
+Ao executar os koans pela primeira vez, você verá um erro de tempo de execução e um
+rastreamento de pilha indicando onde ocorreu o erro. Seu objetivo é fazer com que
+erro desaparecer. Ao corrigir cada erro, você deve aprender algo sobre o
+Linguagem Javascript e programação funcional em geral.
 
-## Running the Koans
-Simply navigate to the Javascript Koans folder using a file browser, and
-double click on KoansRunnner.html. 
+Sua jornada rumo ao esclarecimento do Javascript começa no arquivo koans/AboutExpects.js. Esses
+koans serão muito simples, então não pense demais neles! À medida que você avança através
+mais koans, mais e mais sintaxe Javascript será introduzida, o que permitirá
+você a resolver problemas mais complicados e usar técnicas mais avançadas.
 
-Any browser will do, but for the best results Firefox or Chrome is
-recommended. More stack trace information shows up for javascript on these
-browsers.
+## Executando os Koans
+Basta navegar até a pasta Javascript Koans usando um navegador de arquivos e
+clique duas vezes em KoansRunnner.html.
 
-The first error will be in koans/AboutExpects.js. Fix the first test and
+Qualquer navegador serve, mas para obter os melhores resultados, Firefox ou Chrome é
+recomendado. Mais informações de rastreamento de pilha aparecem para javascript nestes
+navegadores.
+
+O primeiro erro estará em koans/AboutExpects.js. Corrija o primeiro teste e
 refresh the browser. Rinse and repeat until all tests turn green.
-
-The test runner used is [Jasmine](http://jasmine.github.io/) with a customized report viewer.
-
-### Changelog
-*  v3 - Nov 2010  - Moved out of branch of functional-koans project, into own top level project
-*  v2 - Sept 2010 - Second version based on jasmine (Thanks Greg Malcolm!)
-*  v1 - July 2010 - First version based on jsTestDriver
-
-### Acknowledgements
-*  Dick Wall (the Java posse) - for bringing the idea of koans to my attention
-*  Edgecase - for the great Ruby Koans
-*  Douglas Crockford - for Javascript; the good bits
-
-### [MIT Licensed](LICENSE)
